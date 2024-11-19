@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-11-17T01:10:31.029760+00:00",
+  "timestamp": "2024-11-19T01:07:01.354411+00:00",
   "repo": "openid/OpenID4VC_SecTrust",
   "labels": [
     {
@@ -464,6 +464,22 @@
       "body": "![Screenshot_20230814_134632](https://github.com/vcstuff/oid4vc-security-and-trust/assets/89476/418c5b37-df5f-46f0-82ef-7f0fc314be83)\r\n",
       "createdAt": "2023-08-14T11:46:35Z",
       "updatedAt": "2023-08-14T11:46:35Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 25,
+      "id": "I_kwDOKG5WTM6fJemn",
+      "title": "Wondering about the need of user session in P-40",
+      "url": "https://github.com/openid/OpenID4VC_SecTrust/issues/25",
+      "state": "OPEN",
+      "author": "patatoid",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "Hi,\r\n\r\nThank you for this great work on the security considerations of OID4VC.\r\n\r\nI was reading P-40 and could not understand the need for user sessions in same-device flows and if the lack of it in cross-device ones would be a security leak.\r\n\r\nIn the hope of a reply.",
+      "createdAt": "2024-11-18T22:04:51Z",
+      "updatedAt": "2024-11-18T22:04:51Z",
       "closedAt": null,
       "comments": []
     }
